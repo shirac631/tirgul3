@@ -1,0 +1,17 @@
+#sq1{background-color: red; width: 200px; height: 200px; position: fixed;border-style: solid;
+ border-color: black;top: 200px; ;}
+
+ #sq2{background-color: pink; width: 300px; height: 150px; position: relative;border-style: solid;
+ border-color: blue;}
+
+ h3{float: right;}
+
+ #sq3{background-color: yellow; width: 100px; height: 95px; position: absolute;border-style: solid;
+ border-color: green;}
+
+ #the_fixed{position: fixed;right: 0; top: 50px;  background-color: brown; width: 300px; height: 500px;}
+
+ #font{font-size: 50px;}
+
+
+ 
